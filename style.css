@@ -122,7 +122,7 @@ section>div.hero-content>p{
     font-weight: 600;
     text-transform: capitalize;
     border: 2px solid #fff;
-    box-shadow: 0 0 10px #fff;
+    box-shadow: 0 0 20px #fff;
 }
 .hero-content>.btn:hover{
     background-color: transparent;
